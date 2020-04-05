@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fe51595-2c76-4996-bfb8-e46b67272a52" name="Default Changelist" comment="" />
+    <list default="true" id="7fe51595-2c76-4996-bfb8-e46b67272a52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/MainUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/MainUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timestamp_parser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/timestamp_parser.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -16,8 +30,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a82vZrpt2ojoEVWgLfyoZxFyq1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -30,16 +51,32 @@
       <option name="presentableId" value="Default" />
       <updated>1586103132132</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit: Created IntelliJ project">
+      <created>1586103304695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586103304695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit: Created IntelliJ project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Created IntelliJ project" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="590" y="116" key="CommitChangelistDialog2" timestamp="1586103291205">
+    <state x="590" y="116" key="CommitChangelistDialog2" timestamp="1586119018108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="590" y="116" key="CommitChangelistDialog2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586103291205" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586103155451">
+    <state x="590" y="116" key="CommitChangelistDialog2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586119018108" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586103315553">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586103155451" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586103315553" />
+    <state x="342" y="140" key="new project wizard" timestamp="1586106883252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586106883252" />
   </component>
 </project>
