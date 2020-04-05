@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fe51595-2c76-4996-bfb8-e46b67272a52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Marco" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a82vZrpt2ojoEVWgLfyoZxFyq1" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fe51595-2c76-4996-bfb8-e46b67272a52" name="Default Changelist" comment="" />
+      <created>1586103132132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586103132132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="116" key="CommitChangelistDialog2" timestamp="1586103291205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="116" key="CommitChangelistDialog2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586103291205" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586103155451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586103155451" />
+  </component>
+</project>
