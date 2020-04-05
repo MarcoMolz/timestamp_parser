@@ -28,6 +28,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1a82vZrpt2ojoEVWgLfyoZxFyq1" />
   <component name="ProjectViewState">
@@ -66,14 +67,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Created IntelliJ project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="590" y="116" key="CommitChangelistDialog2" timestamp="1586119018108">
+    <state x="590" y="116" key="CommitChangelistDialog2" timestamp="1586119031770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="590" y="116" key="CommitChangelistDialog2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586119018108" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586103315553">
+    <state x="590" y="116" key="CommitChangelistDialog2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586119031770" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586119035067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586103315553" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586119035067" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586119093198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.261.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1586119093198" />
     <state x="342" y="140" key="new project wizard" timestamp="1586106883252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
